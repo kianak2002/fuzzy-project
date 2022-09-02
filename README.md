@@ -63,7 +63,6 @@ Also these parameters can be modified using configuration files located in **con
 
 ### Fuzzy Control Language (FCL)
 The *FuzzyController* class in **controller.py** module, loads an *FCL* file to decide how much force needs to be applied to the cart in each cycle of simulation.
-*FCL* files can be found in **controllers** directory. You can create your own controller by writing a new *FCL* file and specifying it in the *config* files by changing the *fcl_path* item.
 
 **configs/default.ini**:
 
