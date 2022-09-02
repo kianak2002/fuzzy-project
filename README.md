@@ -28,17 +28,17 @@ Also, you can run the project using custom configurations located in the **confi
 
 ### Physical parameters of simulator
 
-> **M**: cart mass, *kg*
+> **M**: car mass, *kg*
 > 
 > **m**: pendulum mass, *kg*
 > 
 > **l**: pendulum length, *m*
 > 
-> **x**: cart position, *m*
+> **x**: car position, *m*
 > 
-> **v**: cart velocity, *m/s*
+> **v**: car velocity, *m/s*
 > 
-> **a**: cart acceleration, *m/s^2*
+> **a**: car acceleration, *m/s^2*
 > 
 > **theta**: pendulum central angle, *radian*
 > 
@@ -48,15 +48,15 @@ Also, you can run the project using custom configurations located in the **confi
 > 
 > **g**: gravity acceleration, *m/s^2*
 > 
-> **b**: cart coefficient of friction, *newton/m/s*
+> **b**: car coefficient of friction, *newton/m/s*
 > 
 > **I**: moment of inertia, *kg.m^2*
 > 
-> **min_x**: cart minimum x, *m*
+> **min_x**: car minimum x, *m*
 > 
-> **max_x**: cart maximum x, *m*
+> **max_x**: car maximum x, *m*
 > 
-> **force**: force applied on cart, *newton*
+> **force**: force applied on car, *newton*
 
 You can see all the parameters in **world.py** module.
 Also these parameters can be modified using configuration files located in **configs** directory.
