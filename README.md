@@ -1,3 +1,5 @@
+It is a course project for Artificial Intelligence course instructed by [Dr.Mohammad-Mehdi Edabzadeh](https://aut.ac.ir/cv/2130/MOHAMMAD-MEHDI-EBADZADEH?slc_lang=en&&cv=2130&mod=scv)
+
 # fuzzy-project# Fuzzy Inverted Pendulum
 
 Basically, this project consists of an inverted pendulum simulator and a fuzzy controller. The main goal was to develop a simple yet useful simulator to model the environment, so that you are enabled to easily create a fuzzy controller for the inverted pendulum problem.
